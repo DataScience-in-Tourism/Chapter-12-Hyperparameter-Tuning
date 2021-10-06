@@ -1,6 +1,7 @@
 # Chapter 12: Hyperparameter-Tuning
 
-## The art of fine-tuning Machine and Deep Learning models to improve metric results. 
+## The art of fine-tuning Machine and Deep Learning models to improve metric results
+## http://www.datascience-in-tourism.com/
 
 ***[Pier Paolo Ippolito](https://github.com/pierpaolo28)***
 
